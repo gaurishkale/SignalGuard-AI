@@ -42,7 +42,7 @@ SignalGuard-AI/
 ├── requirements.txt
 └── README.md
 ## Requirements
-
+```
 Install dependencies:
 
 ```bash
