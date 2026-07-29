@@ -35,7 +35,13 @@ SignalGuard-AI/
 ├── requirements.txt
 └── README.md
 ```
+# SignalGuard AI
 
+## Demo
+
+<p align="center">
+  <img src="assets/demo.mp4" width="900">
+</p>
 ---
 
 ## Requirements
