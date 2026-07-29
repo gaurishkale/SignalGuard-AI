@@ -13,7 +13,6 @@ SignalGuard AI is a Python-based desktop application developed for monitoring an
 https://github.com/user-attachments/assets/4213182d-c22f-4a6c-a62c-708ea424b855
 
 
-```
 ## Features
 
 - Read and parse `.dat` DAS recordings
