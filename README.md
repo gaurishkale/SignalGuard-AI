@@ -39,10 +39,10 @@ SignalGuard-AI/
 
 ## Demo
 
-<p align="center">
-  <img src="assets/demo.mp4" width="900">
-</p>
----
+
+https://github.com/user-attachments/assets/4213182d-c22f-4a6c-a62c-708ea424b855
+
+
 
 ## Requirements
 
