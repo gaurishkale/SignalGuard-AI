@@ -4,8 +4,16 @@
 
 SignalGuard AI is a Python-based desktop application developed for monitoring and visualizing Distributed Acoustic Sensing (DAS) data. The application reads compressed `.dat` files, processes the signal, extracts useful features, detects abnormal events, and displays multiple signal visualizations through a Tkinter GUI.
 
----
+```
+# SignalGuard AI
 
+## Demo
+
+
+https://github.com/user-attachments/assets/4213182d-c22f-4a6c-a62c-708ea424b855
+
+
+```
 ## Features
 
 - Read and parse `.dat` DAS recordings
@@ -34,16 +42,6 @@ SignalGuard-AI/
 ├── config.py
 ├── requirements.txt
 └── README.md
-```
-# SignalGuard AI
-
-## Demo
-
-
-https://github.com/user-attachments/assets/4213182d-c22f-4a6c-a62c-708ea424b855
-
-
-
 ## Requirements
 
 Install dependencies:
